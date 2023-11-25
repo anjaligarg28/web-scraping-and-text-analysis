@@ -7,3 +7,6 @@ I used 100+ links to extract their text data and analyse it to check its sentime
 
 The final analysed sheet contained the following metrics:
 URL,	Positive Score,	Negative Score,	Polarity Score,	Subjectivity Score,	Avg Sentence Length,	Avg No of Words per Sentence,	Avg Word Length,	Personal Pronoun Count,	Word Count,	Average Syllable Count,	Complex Word Count,	Percentage of Complex Words,Fog Index
+
+you can find the dataset here: https://www.kaggle.com/datasets/anjaliigargg/website-urls-for-web-scraping-and-data-analysis/data
+you can also find the code here: https://www.kaggle.com/code/anjaliigargg/web-scraping-and-sentiment-analysis/
